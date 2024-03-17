@@ -21,3 +21,5 @@ void Print(string[] array)
     Console.WriteLine();
 }
 string[] NewArray = { "hello", "2", "world", ":-)", "1234", "1567", "-2", "computer science", "Russia", "Denmark", "Kazan" };
+
+Print(words(NewArray));
