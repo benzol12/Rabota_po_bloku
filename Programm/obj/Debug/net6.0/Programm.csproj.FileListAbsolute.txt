@@ -3,3 +3,13 @@ C:\Users\olbez\Desktop\Itogovaya_rabota\Programm\obj\Debug\net6.0\Programm.Gener
 C:\Users\olbez\Desktop\Itogovaya_rabota\Programm\obj\Debug\net6.0\Programm.AssemblyInfoInputs.cache
 C:\Users\olbez\Desktop\Itogovaya_rabota\Programm\obj\Debug\net6.0\Programm.AssemblyInfo.cs
 C:\Users\olbez\Desktop\Itogovaya_rabota\Programm\obj\Debug\net6.0\Programm.csproj.CoreCompileInputs.cache
+C:\Users\olbez\Desktop\Itogovaya_rabota\Programm\bin\Debug\net6.0\Programm.exe
+C:\Users\olbez\Desktop\Itogovaya_rabota\Programm\bin\Debug\net6.0\Programm.deps.json
+C:\Users\olbez\Desktop\Itogovaya_rabota\Programm\bin\Debug\net6.0\Programm.runtimeconfig.json
+C:\Users\olbez\Desktop\Itogovaya_rabota\Programm\bin\Debug\net6.0\Programm.dll
+C:\Users\olbez\Desktop\Itogovaya_rabota\Programm\bin\Debug\net6.0\Programm.pdb
+C:\Users\olbez\Desktop\Itogovaya_rabota\Programm\obj\Debug\net6.0\Programm.dll
+C:\Users\olbez\Desktop\Itogovaya_rabota\Programm\obj\Debug\net6.0\refint\Programm.dll
+C:\Users\olbez\Desktop\Itogovaya_rabota\Programm\obj\Debug\net6.0\Programm.pdb
+C:\Users\olbez\Desktop\Itogovaya_rabota\Programm\obj\Debug\net6.0\Programm.genruntimeconfig.cache
+C:\Users\olbez\Desktop\Itogovaya_rabota\Programm\obj\Debug\net6.0\ref\Programm.dll

@@ -7,11 +7,11 @@
     {
         if (array[i].Length <= 3)
         {
-        words1 [counter] = array[i];
-        counter++;
+        words1 [count] = array[i];
+        count++;
         }
     }
-    Array.Resize(ref words1, counter);
+    Array.Resize(ref words1, count);
     return words1;
 
 }
