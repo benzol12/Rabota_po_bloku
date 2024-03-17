@@ -1,6 +1,11 @@
 ﻿string[] words(string[] array) 
 {
+    string[] words1 = new string[11];
+    //Будем использовать for
+    for ()
+    {
 
+    }
 }
 void Print(string[] array)
 {
